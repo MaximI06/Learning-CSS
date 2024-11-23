@@ -1,0 +1,21 @@
+#one_red {
+    font-size: 50px;
+    background-color: rgb(209, 71, 71);
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 30px solid rgb(140, 50, 140);
+    margin: 60px;
+    box-sizing: border-box;
+}
+
+#two_blue {
+    font-size: 50px;
+    background-color: rgb(85, 110, 226);
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 30px solid rgb(140, 50, 140);
+    margin: 60px;
+    
+}
